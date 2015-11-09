@@ -1,8 +1,1 @@
-# Best Practices
-
-### Facebook
-
-### Sponsor Logos
-
-- Transparent PNG
-- Or - Vector EPS AI SVG
+Moved [here](http://discuss.techatnyu.org/t/marketing-best-practices/56).

@@ -1,5 +1,1 @@
-# School of Professional Studies
-
-- Midtown Center
-- Woolworth Building
-- 7 East 12th/Wasserman Center
+Moved [here](http://discuss.techatnyu.org/t/flyer-location-ideas/57).
